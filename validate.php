@@ -59,7 +59,7 @@
 			<div class="row">
 				<div id="loginTerms" class="input-field col s12">
 					<input id="filled-in-box" type="checkbox" class="filled-in" required>
-      		<label for="filled-in-box">I Agree To The <a href="#">Terms & Conditions</a></label>
+      		<label for="filled-in-box">I Agree To The <a href="#">Terms &amp; Conditions</a></label>
 				</div>
 			</div>
 			<div class="row">

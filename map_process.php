@@ -2,10 +2,10 @@
 //PHP 5 +
 
 // database settings 
-$db_username = 'gc200299028';
-$db_password = 'xC87DwW*';
-$db_name = 'gc200299028';
-$db_host = 'sql.computerstudi.es';
+$db_username = 'root';
+$db_password = '';
+$db_name = 'opp_web_app';
+$db_host = 'localhost';
 
 //mysqli
 $mysqli = new mysqli($db_host, $db_username, $db_password, $db_name);
